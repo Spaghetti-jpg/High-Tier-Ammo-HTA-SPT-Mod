@@ -1,0 +1,28 @@
+{
+    "Jaeger": [
+        {
+            "ammo_id": "5f0596629e22f464da6bbdd9",
+            "buy_restriction_max": 130,
+            "price": 1110,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5fc275cf85fd526b824a571a",
+            "buy_restriction_max": 120,
+            "price": 1900,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5d6e68a8a4b9360b6c0d54e2",
+            "buy_restriction_max": 90,
+            "price": 670,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5fc382a9d724d907e2077dab",
+            "buy_restriction_max": 60,
+            "price": 2760,
+            "loyalty_level": 4
+        }
+    ]
+}

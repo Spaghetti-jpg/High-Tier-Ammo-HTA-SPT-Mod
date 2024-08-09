@@ -1,0 +1,10 @@
+{
+    "Skier": [
+        {
+            "ammo_id": "5e85a9f4add9fe03027d9bf1",
+            "buy_restriction_max": 2,
+            "price": 4700,
+            "loyalty_level": 4
+        }
+    ]
+}

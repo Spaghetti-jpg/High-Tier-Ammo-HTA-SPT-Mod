@@ -1,0 +1,28 @@
+{
+    "Mechanic": [
+        {
+            "ammo_id": "5ea2a8e200685063ec28c05a",
+            "buy_restriction_max": 130,
+            "price": 560,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5ba26835d4351e0035628ff5",
+            "buy_restriction_max": 190,
+            "price": 835,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5ba2678ad4351e44f824b344",
+            "buy_restriction_max": 300,
+            "price": 550,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5cc86832d7f00c000d3a6e6c",
+            "buy_restriction_max": 120,
+            "price": 450,
+            "loyalty_level": 4
+        }
+    ]
+}

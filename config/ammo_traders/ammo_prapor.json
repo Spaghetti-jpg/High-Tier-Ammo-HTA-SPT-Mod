@@ -1,0 +1,88 @@
+{
+    "Prapor": [
+        {
+            "ammo_id": "59e0d99486f7744a32234762",
+            "buy_restriction_max": 120,
+            "price": 1290,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5e023d34e8a400319a28ed44",
+            "buy_restriction_max": 120,
+            "price": 1560,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "560d61e84bdc2da74d8b4571",
+            "buy_restriction_max": 90,
+            "price": 2750,
+            "loyalty_level": 0
+        },
+        {
+            "ammo_id": "6576f4708ca9c4381d16cd9d",
+            "buy_restriction_max": 120,
+            "price": 990,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "57a0e5022459774d1673f889",
+            "buy_restriction_max": 90,
+            "price": 1505,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5c0d688c86f77413ae3407b2",
+            "buy_restriction_max": 90,
+            "price": 2080,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "61962b617c6c7b169525f168",
+            "buy_restriction_max": 60,
+            "price": 1220,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "56dfef82d2720bbd668b4567",
+            "buy_restriction_max": 60,
+            "price": 1430,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "56dff026d2720bb8668b4567",
+            "buy_restriction_max": 60,
+            "price": 1620,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5c0d5e4486f77478390952fe",
+            "buy_restriction_max": 60,
+            "price": 2150,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "601aa3d2b2bcb34913271e6d",
+            "buy_restriction_max": 90,
+            "price": 1860,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "64b8f7b5389d7ffd620ccba2",
+            "buy_restriction_max": 300,
+            "price": 330,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "59e77a2386f7742ee578960a",
+            "buy_restriction_max": 120,
+            "price": 970,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5e023d48186a883be655e551",
+            "buy_restriction_max": 90,
+            "price": 3540,
+            "loyalty_level": 4
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Peacekeeper": [
+        {
+            "ammo_id": "54527ac44bdc2d36668b4567",
+            "buy_restriction_max": 120,
+            "price": 9,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "59e690b686f7746c9f75e848",
+            "buy_restriction_max": 120,
+            "price": 15,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5a6086ea4f39f99cd479502f",
+            "buy_restriction_max": 90,
+            "price": 21,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5efb0da7a29a85116f6ea05f",
+            "buy_restriction_max": 170,
+            "price": 5,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5efb0cabfb3e451d70735af5",
+            "buy_restriction_max": 100,
+            "price": 10,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5ede4739e0350d05467f73e8",
+            "buy_restriction_max": 1,
+            "price": 470,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5c0d5ae286f7741e46554302",
+            "buy_restriction_max": 9999,
+            "price": 5,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "601949593ae8f707c4608daa",
+            "buy_restriction_max": 120,
+            "price": 18,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5cc80f8fe4a949033b0224a2",
+            "buy_restriction_max": 300,
+            "price": 2,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "619636be6db0f2477964e710",
+            "buy_restriction_max": 150,
+            "price": 4,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5fd20ff893a8961fc660a954",
+            "buy_restriction_max": 120,
+            "price": 6,
+            "loyalty_level": 4
+        },
+        {
+            "ammo_id": "5efb0c1bd79ff02a1f5e68d9",
+            "buy_restriction_max": 50,
+            "price": 26,
+            "loyalty_level": 4
+        }
+    ]
+}

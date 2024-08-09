@@ -1,0 +1,56 @@
+{
+    "enableLogging": true,
+    "logSkippedAmmo": false,
+    "overrideLoyaltyLevel": false,
+
+    ".300 Blackout AP": false,
+    ".300 Blackout M62 Tracer": true,
+
+    ".338 Lapua Magnum FMJ": true,
+    ".338 Lapua Magnum AP": false,
+
+    ".366 TKM AP-M": false,
+
+    ".45 ACP AP": true,
+    ".45 ACP RIP": true,
+
+    "12/70 AP-20 armor-piercing slug": false,
+
+    "23x75mm Zvezda flashbang round": true,
+
+    "40x46mm M406 (HE) grenade": false,
+
+    "4.6x30mm AP SX": true,
+    "4.6x30mm FMJ SX": true,
+
+    "5.45x39mm 7N40": true,
+    "5.45x39mm BP gs": true,
+    "5.45x39mm BS gs": false,
+    "5.45x39mm PPBS gs \"Igolnik\"": false,
+
+    "5.56x45mm M855A1": true,
+    "5.56x45mm M995": false,
+    "5.56x45mm SSA AP": false,
+
+    "5.7x28mm R37.F": true,
+    "5.7x28mm SS197SR": true,
+
+    "7.62x39mm BP gzh": true,
+    "7.62x39mm MAI AP": false,
+
+    "7.62x51mm M61": true,
+    "7.62x51mm M993": false,
+
+    "7.62x54mm R BS gs": true,
+    "7.62x54mm R BT gzh": true,
+    "7.62x54mm R PS gzh": true,
+    "7.62x54mm R SNB gzh": false,
+    "7.62x54мм R SP BT": true,
+
+    "9x19mm PBP gzh": true,
+
+    "9x21mm 7N42 Zubilo": true,
+
+    "9x39mm SP-6 gs": true,
+    "9x39mm BP gs": false
+}
